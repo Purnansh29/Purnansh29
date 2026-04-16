@@ -1,12 +1,12 @@
 <!--Banner-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Jalak%20Palan&fontSize=65&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:16213e,100:0f3460&height=200&section=header&text=Purnansh%20Patel&fontSize=65&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
 </div>
 
 <!--Typing SVG-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Jalak+Palan!;%F0%9F%92%BB+Full+Stack+Developer+%26+DSA+Enthusiast;%F0%9F%9A%80+Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=E94560&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=90&lines=%F0%9F%91%8B+Hello+World%2C+I'm+Purnansh+Patel!;%F0%9F%92%BB+Full+Stack+Developer+%26+DSA+Enthusiast;%F0%9F%9A%80+Turning+Ideas+into+Reality%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -21,16 +21,16 @@
 
 <!--Badges Row-->
 <div align="center">
-  <a href="https://github.com/Jalak-Palan">
-    <img src="https://komarev.com/ghpvc/?username=Jalak-Palan&label=Profile+Views&color=e94560&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <a href="https://github.com/Purnansh-Patel">
+    <img src="https://komarev.com/ghpvc/?username=Purnansh-Patel&label=Profile+Views&color=e94560&style=for-the-badge&logo=eye" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Jalak-Palan?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jalak-Palan?style=for-the-badge&color=0f3460&labelColor=1a1a2e&label=Followers&logo=github" alt="Followers"/>
+  <a href="https://github.com/Purnansh-Patel?tab=followers">
+    <img src="https://img.shields.io/github/followers/Purnansh-Patel?style=for-the-badge&color=0f3460&labelColor=1a1a2e&label=Followers&logo=github" alt="Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Jalak-Palan?tab=stars">
-    <img src="https://img.shields.io/github/stars/Jalak-Palan?style=for-the-badge&color=e94560&labelColor=1a1a2e&label=Stars&logo=github" alt="Stars"/>
+  <a href="https://github.com/Purnansh-Patel?tab=stars">
+    <img src="https://img.shields.io/github/stars/Purnansh-Patel?style=for-the-badge&color=e94560&labelColor=1a1a2e&label=Stars&logo=github" alt="Stars"/>
   </a>
 </div>
 
@@ -51,7 +51,7 @@
 
 ```yaml
 ┌─────────────────────────────────────────┐
-│         JALAK PALAN  •  DEV             │
+│       PURNANSH PATEL  •  DEV            │
 ├─────────────────────────────────────────┤
 │  Role    : Full Stack Developer         │
 │  Focus   : Web Apps & DSA              │
@@ -65,7 +65,7 @@
 ### 🧬 &nbsp;Who Am I?
 
 <p align="left">
-  I'm <strong>Jalak Palan</strong> — a passionate Full Stack Developer who loves crafting<br/>
+  I'm <strong>Purnansh Patel</strong> — a passionate Full Stack Developer who loves crafting<br/>
   elegant solutions to complex problems. I blend creativity with logic<br/>
   to build impactful digital experiences that users love. 🚀
 </p>
@@ -85,15 +85,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jalak-palan-726597367/" target="_blank">
+<a href="https://www.linkedin.com/in/purnansh-patel/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://x.com/Jalak_Palan" target="_blank">
+<a href="https://x.com/Purnansh_Patel" target="_blank">
   <img src="https://img.shields.io/badge/Twitter_(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
 </a>
 &nbsp;
-<a href="https://www.youtube.com/@JALAKPALAN-q8i" target="_blank">
+<a href="https://www.youtube.com/@PurnanshPatel" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 &nbsp;
@@ -156,22 +156,22 @@
   <tr>
     <td width="50%" align="center">
       <h3><strong>📈 Overall Stats</strong></h3>
-      <a href="https://github.com/Jalak-Palan">
-        <img src="https://github-readme-stats.vercel.app/api?username=Jalak-Palan&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" alt="GitHub Stats"/>
+      <a href="https://github.com/Purnansh-Patel">
+        <img src="https://github-readme-stats.vercel.app/api?username=Purnansh-Patel&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" alt="GitHub Stats"/>
       </a>
     </td>
     <td width="50%" align="center">
       <h3><strong>🔥 Streak Stats</strong></h3>
-      <a href="https://github.com/Jalak-Palan">
-        <img src="https://streak-stats.demolab.com/?user=Jalak-Palan&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=8b949e&stroke=21262d" alt="Streak Stats"/>
+      <a href="https://github.com/Purnansh-Patel">
+        <img src="https://streak-stats.demolab.com/?user=Purnansh-Patel&theme=github-dark-blue&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=a8b2d8&dates=8b949e&stroke=21262d" alt="Streak Stats"/>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3><strong>🏆 Top Languages</strong></h3>
-      <a href="https://github.com/Jalak-Palan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jalak-Palan&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" alt="Top Languages" width="420"/>
+      <a href="https://github.com/Purnansh-Patel">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purnansh-Patel&layout=compact&langs_count=10&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8" alt="Top Languages" width="420"/>
       </a>
     </td>
   </tr>
@@ -183,8 +183,8 @@
 <h2 align="center">📈 &nbsp;Contribution Graph</h2>
 
 <div align="center">
-  <a href="https://github.com/Jalak-Palan">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jalak-Palan&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true&custom_title=Jalak's%20Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
+  <a href="https://github.com/Purnansh-Patel">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purnansh-Patel&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&area_color=e94560&hide_border=true&custom_title=Purnansh's%20Contribution%20Timeline" width="95%" alt="Contribution Graph"/>
   </a>
 </div>
 
@@ -197,9 +197,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jalak-Palan/Jalak-Palan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jalak-Palan/Jalak-Palan/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Jalak-Palan/Jalak-Palan/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purnansh-Patel/Purnansh-Patel/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purnansh-Patel/Purnansh-Patel/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Purnansh-Patel/Purnansh-Patel/output/github-contribution-grid-snake-dark.svg" width="95%"/>
   </picture>
 </div>
 
@@ -242,5 +242,5 @@
 <!--Footer-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&text=Thanks+for+visiting!+%E2%AD%90&fontSize=20&fontColor=e94560&animation=fadeIn&fontAlignY=65" width="100%"/>
-  <sub>Crafted with 💙 by <a href="https://github.com/Jalak-Palan">Jalak Palan</a></sub>
+  <sub>Crafted with 💙 by <a href="https://github.com/Purnansh-Patel">Purnansh Patel</a></sub>
 </div>
