@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/m1Xyd1Iqw0/" target="_blank">
+<a href="https://leetcode.com/u/5Xm4vtaScz/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
